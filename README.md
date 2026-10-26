@@ -1,15 +1,7 @@
 # Pleos Idea Notes
 
-Static HTML/CSS presentation for three vehicle-app ideas.
-
 https://cream284.github.io/pleos-ideas/
 
-No framework or build step. System light/dark themes via prefers-color-scheme; print stylesheet included.
+Static HTML/CSS, no framework. SDK scope first, then 15 candidates assessed using the same criteria. No storyboard illustrations displayed. Automatic light/dark theme and responsive layouts.
 
-## Contents
-- Field service
-- Rental return
-- Group trip
-- Easy Route (on hold)
-
-Storyboards are AI-generated fictional scenarios, not product specifications. SDK capabilities and runtime validation are explicitly separated.
+`ideas-data.json` stores the candidate content; `ideas/` contains static detail pages. Business models are hypotheses, not validated forecasts. Public SDK descriptions are distinct from project access and runtime verification.
